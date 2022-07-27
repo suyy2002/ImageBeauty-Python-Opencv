@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="ok">
+    <file>icons/left.png</file>
+    <file>icons/right.png</file>
+    <file>icons/check.png</file>
+    <file>icons/error.png</file>
+  </qresource>
+</RCC>
